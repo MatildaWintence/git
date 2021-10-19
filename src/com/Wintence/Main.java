@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
         String s = "Hej";
-        System.out.println(s);
+        String y = "Då";
+        System.out.println(s + y);
     }
 }
